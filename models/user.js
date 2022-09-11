@@ -52,7 +52,7 @@ user.addHook('beforeCreate', (pendingUser) => {
   pendingUser.password = hash;
 });
 
-user.prototype.validatePassword = function(typedPassword) {
+user.prototype.validPassword = function(typedPassword) {
   let isCorrectPassword = bcrypt.compare(typedPassword, this.password);
 
   return isCorrectPassword;
