@@ -4,16 +4,16 @@ Fork & Clone this repo.
 
 ## Part 1
 
-- [ ] Review the [Project 2 requirements](https://romebell.gitbook.io/seirfx-621/projects/project-2)
+- [x] Review the [Project 2 requirements](https://romebell.gitbook.io/seirfx-621/projects/project-2)
 
-- [ ] Check out some [examples](https://romebell.gitbook.io/seirfx-621/projects/past-projects/project2)
+- [x] Check out some [examples](https://romebell.gitbook.io/seirfx-621/projects/past-projects/project2)
 
-- [ ] In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://www.atlassian.com/agile/project-management/user-stories) for each idea and a link to the API(s) you want to use for it.
+- [x] In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://www.atlassian.com/agile/project-management/user-stories) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Desserts
+2. Pets
+3. Vacations
 ---------------------------------------------------------
 
 - [ ] Make a PR when you're done!
